@@ -4,8 +4,6 @@ standing strong
 <<<<<<< HEAD
 on this their chosen battle field
 
-from the lines
-shield by shield
-side by side
-we're marching into destiny
-------------------------------------
+this is second line
+this is third line
+idk what is this
