@@ -3,12 +3,3 @@ wall of shields
 standing strong
 <<<<<<< HEAD
 on this their chosen battle field
-
-this is second line
-this is third line
-idk what is this
-
-
-this is new lines
-im adding this to test
-new branches and ho they work
